@@ -1,0 +1,1812 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/Edges/Crosshair
+  rotate: false
+  xy: 296, 900
+  size: 116, 100
+  orig: 116, 100
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Coast-Land Art/Beach-Coast-Land-Bottom
+  rotate: false
+  xy: 564, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Coast-Land Art/Beach-Coast-Land-BottomLeft
+  rotate: false
+  xy: 4, 276
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Coast-Land Art/Beach-Coast-Land-BottomRight
+  rotate: false
+  xy: 76, 348
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Coast-Land Art/Beach-Coast-Land-Top
+  rotate: false
+  xy: 148, 412
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Coast-Land Art/Beach-Coast-Land-TopLeft
+  rotate: false
+  xy: 636, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Coast-Land Art/Beach-Coast-Land-TopRight
+  rotate: false
+  xy: 4, 212
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Desert+Mountain-Coast Art/Beach-Desert-Coast-Bottom
+  rotate: false
+  xy: 780, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Desert+Mountain-Coast Art/Beach-Mountain-Coast-Bottom
+  rotate: false
+  xy: 780, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Grass+Plains-Coast Art/Beach-Grassland-Coast-Bottom
+  rotate: false
+  xy: 780, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Grass+Plains-Coast Art/Beach-Plains-Coast-Bottom
+  rotate: false
+  xy: 780, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-Bottom
+  rotate: false
+  xy: 780, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Tundra+Snow-Coast Art/Beach-Tundra-Coast-Bottom
+  rotate: false
+  xy: 780, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Desert+Mountain-Coast Art/Beach-Desert-Coast-BottomLeft
+  rotate: false
+  xy: 4, 84
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Desert+Mountain-Coast Art/Beach-Mountain-Coast-BottomLeft
+  rotate: false
+  xy: 4, 84
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Grass+Plains-Coast Art/Beach-Grassland-Coast-BottomLeft
+  rotate: false
+  xy: 4, 84
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Grass+Plains-Coast Art/Beach-Plains-Coast-BottomLeft
+  rotate: false
+  xy: 4, 84
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-BottomLeft
+  rotate: false
+  xy: 4, 84
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Tundra+Snow-Coast Art/Beach-Tundra-Coast-BottomLeft
+  rotate: false
+  xy: 4, 84
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Desert+Mountain-Coast Art/Beach-Desert-Coast-BottomRight
+  rotate: false
+  xy: 76, 156
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Desert+Mountain-Coast Art/Beach-Mountain-Coast-BottomRight
+  rotate: false
+  xy: 76, 156
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Grass+Plains-Coast Art/Beach-Grassland-Coast-BottomRight
+  rotate: false
+  xy: 76, 156
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Grass+Plains-Coast Art/Beach-Plains-Coast-BottomRight
+  rotate: false
+  xy: 76, 156
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-BottomRight
+  rotate: false
+  xy: 76, 156
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Tundra+Snow-Coast Art/Beach-Tundra-Coast-BottomRight
+  rotate: false
+  xy: 76, 156
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Desert+Mountain-Coast Art/Beach-Desert-Coast-Top
+  rotate: false
+  xy: 148, 220
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Grass+Plains-Coast Art/Beach-Grassland-Coast-Top
+  rotate: false
+  xy: 148, 220
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Grass+Plains-Coast Art/Beach-Plains-Coast-Top
+  rotate: false
+  xy: 148, 220
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-Top
+  rotate: false
+  xy: 148, 220
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Tundra+Snow-Coast Art/Beach-Tundra-Coast-Top
+  rotate: false
+  xy: 148, 220
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Desert+Mountain-Coast Art/Beach-Desert-Coast-TopLeft
+  rotate: false
+  xy: 852, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Grass+Plains-Coast Art/Beach-Grassland-Coast-TopLeft
+  rotate: false
+  xy: 852, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Grass+Plains-Coast Art/Beach-Plains-Coast-TopLeft
+  rotate: false
+  xy: 852, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-TopLeft
+  rotate: false
+  xy: 852, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Tundra+Snow-Coast Art/Beach-Tundra-Coast-TopLeft
+  rotate: false
+  xy: 852, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Desert+Mountain-Coast Art/Beach-Desert-Coast-TopRight
+  rotate: false
+  xy: 4, 20
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Grass+Plains-Coast Art/Beach-Grassland-Coast-TopRight
+  rotate: false
+  xy: 4, 20
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Grass+Plains-Coast Art/Beach-Plains-Coast-TopRight
+  rotate: false
+  xy: 4, 20
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Tundra+Snow-Coast Art/Beach-Snow-Coast-TopRight
+  rotate: false
+  xy: 4, 20
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Tundra+Snow-Coast Art/Beach-Tundra-Coast-TopRight
+  rotate: false
+  xy: 4, 20
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Ocean-Coast/Beach-Coast-Ocean-Bottom
+  rotate: false
+  xy: 76, 284
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Ocean-Coast/Beach-Ocean-Coast-Bottom
+  rotate: false
+  xy: 76, 284
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Ocean-Coast/Beach-Coast-Ocean-BottomLeft
+  rotate: false
+  xy: 148, 348
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Ocean-Coast/Beach-Ocean-Coast-BottomLeft
+  rotate: false
+  xy: 148, 348
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Ocean-Coast/Beach-Coast-Ocean-BottomRight
+  rotate: false
+  xy: 708, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Ocean-Coast/Beach-Ocean-Coast-BottomRight
+  rotate: false
+  xy: 708, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Ocean-Coast/Beach-Coast-Ocean-Top
+  rotate: false
+  xy: 4, 148
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Ocean-Coast/Beach-Ocean-Coast-Top
+  rotate: false
+  xy: 4, 148
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Ocean-Coast/Beach-Coast-Ocean-TopLeft
+  rotate: false
+  xy: 76, 220
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Ocean-Coast/Beach-Ocean-Coast-TopLeft
+  rotate: false
+  xy: 76, 220
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Ocean-Coast/Beach-Coast-Ocean-TopRight
+  rotate: false
+  xy: 148, 284
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Edges/Ocean-Coast/Beach-Ocean-Coast-TopRight
+  rotate: false
+  xy: 148, 284
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Hexagon
+  rotate: false
+  xy: 4, 540
+  size: 277, 240
+  orig: 277, 240
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Highlight
+  rotate: false
+  xy: 4, 788
+  size: 284, 212
+  orig: 284, 212
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Railroad
+  rotate: false
+  xy: 652, 584
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Road
+  rotate: false
+  xy: 1376, 648
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Academy
+  rotate: false
+  xy: 4, 468
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Aluminum
+  rotate: false
+  xy: 296, 836
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Ancient ruins
+  rotate: false
+  xy: 420, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Atoll
+  rotate: false
+  xy: 4, 404
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Bananas
+  rotate: false
+  xy: 76, 476
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Bananas+Plantation
+  rotate: false
+  xy: 492, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Barbarian encampment
+  rotate: false
+  xy: 4, 340
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Barbarian encampmentT
+  rotate: false
+  xy: 76, 412
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Barringer Crater
+  rotate: false
+  xy: 148, 476
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Camp
+  rotate: false
+  xy: 76, 92
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Cattle
+  rotate: false
+  xy: 148, 156
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/CattleP
+  rotate: false
+  xy: 148, 156
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Cattle+Pasture
+  rotate: false
+  xy: 924, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/CattleG
+  rotate: false
+  xy: 76, 28
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Cerro de Potosi
+  rotate: false
+  xy: 148, 92
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Citadel
+  rotate: false
+  xy: 220, 468
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Citrus
+  rotate: false
+  xy: 996, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Citrus+Plantation
+  rotate: false
+  xy: 148, 28
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/City center
+  rotate: false
+  xy: 220, 387
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/City center-Atomic era
+  rotate: false
+  xy: 220, 387
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/City center-Ancient era
+  rotate: false
+  xy: 220, 315
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/City center-Classical era
+  rotate: false
+  xy: 220, 243
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/City center-Future era
+  rotate: false
+  xy: 220, 158
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/City center-Industrial era
+  rotate: false
+  xy: 220, 80
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/City center-Information era
+  rotate: false
+  xy: 1068, 927
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/City center-Medieval era
+  rotate: false
+  xy: 1140, 934
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/City center-Modern era
+  rotate: false
+  xy: 1212, 930
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/City center-Renaissance era
+  rotate: false
+  xy: 1284, 934
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Coal
+  rotate: false
+  xy: 1356, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Coast
+  rotate: false
+  xy: 1428, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Copper
+  rotate: false
+  xy: 1500, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Cotton
+  rotate: false
+  xy: 1572, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Cotton+Plantation
+  rotate: false
+  xy: 1644, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Crab
+  rotate: false
+  xy: 1716, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Customs house
+  rotate: false
+  xy: 1788, 936
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Deer
+  rotate: false
+  xy: 1860, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Deer+Camp
+  rotate: false
+  xy: 1932, 944
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Desert
+  rotate: false
+  xy: 220, 16
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Desert+Hill
+  rotate: false
+  xy: 289, 644
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Desert+Hill+Fallout
+  rotate: false
+  xy: 368, 836
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Desert+Hill+Fallout2
+  rotate: false
+  xy: 368, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Desert+Hill2
+  rotate: false
+  xy: 289, 580
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Desert2
+  rotate: false
+  xy: 296, 772
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Desert3
+  rotate: false
+  xy: 289, 708
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Dyes
+  rotate: false
+  xy: 361, 708
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Dyes+Plantation
+  rotate: false
+  xy: 361, 644
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/El Dorado
+  rotate: false
+  xy: 361, 580
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Fallout
+  rotate: false
+  xy: 292, 516
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Farm
+  rotate: false
+  xy: 292, 452
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Farm+Wheat
+  rotate: false
+  xy: 292, 388
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/FarmD
+  rotate: false
+  xy: 292, 324
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/FarmDH
+  rotate: false
+  xy: 292, 260
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/FarmG
+  rotate: false
+  xy: 292, 196
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/FarmGH
+  rotate: false
+  xy: 292, 132
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/FarmP
+  rotate: false
+  xy: 292, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/FarmPH
+  rotate: false
+  xy: 364, 516
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/FarmS
+  rotate: false
+  xy: 364, 452
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/FarmSH
+  rotate: false
+  xy: 364, 388
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/FarmT
+  rotate: false
+  xy: 364, 324
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/FarmTH
+  rotate: false
+  xy: 364, 260
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Fish
+  rotate: false
+  xy: 364, 196
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Fishing Boats
+  rotate: false
+  xy: 364, 132
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Flood plains
+  rotate: false
+  xy: 364, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/ForestG
+  rotate: false
+  xy: 292, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/ForestGH
+  rotate: false
+  xy: 364, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/ForestGHLow
+  rotate: false
+  xy: 440, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/ForestGHUp
+  rotate: false
+  xy: 440, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/ForestGLow
+  rotate: false
+  xy: 512, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/ForestGUp
+  rotate: false
+  xy: 512, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/ForestP
+  rotate: false
+  xy: 584, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/ForestPH
+  rotate: false
+  xy: 584, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/ForestPHLow
+  rotate: false
+  xy: 656, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/ForestPHUp
+  rotate: false
+  xy: 656, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/ForestPLow
+  rotate: false
+  xy: 728, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/ForestPUp
+  rotate: false
+  xy: 728, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/ForestT
+  rotate: false
+  xy: 800, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/ForestTH
+  rotate: false
+  xy: 800, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/ForestTLow
+  rotate: false
+  xy: 872, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/ForestTUp
+  rotate: false
+  xy: 872, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Fort
+  rotate: false
+  xy: 944, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Fountain of Youth
+  rotate: false
+  xy: 944, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Furs
+  rotate: false
+  xy: 440, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Furs+Camp
+  rotate: false
+  xy: 512, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/FursT
+  rotate: false
+  xy: 584, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/FursT+Camp
+  rotate: false
+  xy: 656, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Gems
+  rotate: false
+  xy: 728, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Gold Ore
+  rotate: false
+  xy: 800, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Grand Mesa
+  rotate: false
+  xy: 872, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Grassland
+  rotate: false
+  xy: 944, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Grassland+Hill
+  rotate: false
+  xy: 505, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Grassland+Hill+Fallout
+  rotate: false
+  xy: 577, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Grassland+Hill+Fallout2
+  rotate: false
+  xy: 577, 624
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Grassland+Hill2
+  rotate: false
+  xy: 505, 624
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Grassland2
+  rotate: false
+  xy: 433, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Grassland3
+  rotate: false
+  xy: 433, 624
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Great Barrier Reef
+  rotate: false
+  xy: 649, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Hill
+  rotate: false
+  xy: 649, 624
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Holy site
+  rotate: false
+  xy: 721, 680
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Horses
+  rotate: false
+  xy: 793, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Horses+Pasture
+  rotate: false
+  xy: 865, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Ice
+  rotate: false
+  xy: 937, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Incense
+  rotate: false
+  xy: 721, 616
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Incense+Plantation
+  rotate: false
+  xy: 793, 624
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Iron
+  rotate: false
+  xy: 865, 624
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Ivory
+  rotate: false
+  xy: 937, 624
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Ivory+Camp
+  rotate: false
+  xy: 436, 560
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/JungleG
+  rotate: false
+  xy: 436, 496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/JungleGLow
+  rotate: false
+  xy: 508, 560
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/JungleGUp
+  rotate: false
+  xy: 436, 432
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/JungleP
+  rotate: false
+  xy: 508, 496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/JunglePLow
+  rotate: false
+  xy: 580, 560
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/JunglePUp
+  rotate: false
+  xy: 436, 368
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Krakatoa
+  rotate: false
+  xy: 508, 432
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Lakes
+  rotate: false
+  xy: 580, 496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Landmark
+  rotate: false
+  xy: 436, 296
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Lumber mill
+  rotate: false
+  xy: 508, 368
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Manufactory
+  rotate: false
+  xy: 580, 424
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Marble
+  rotate: false
+  xy: 436, 232
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Marble+Quarry
+  rotate: false
+  xy: 508, 304
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Marsh
+  rotate: false
+  xy: 580, 360
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Mine
+  rotate: false
+  xy: 436, 168
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Moai
+  rotate: false
+  xy: 508, 240
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Mount Fuji
+  rotate: false
+  xy: 580, 296
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Mount Kailash
+  rotate: false
+  xy: 436, 102
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Mount Sinai
+  rotate: false
+  xy: 508, 174
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Mountain
+  rotate: false
+  xy: 580, 224
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Mountain-1
+  rotate: false
+  xy: 580, 224
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Mountain2
+  rotate: false
+  xy: 436, 30
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Oasis
+  rotate: false
+  xy: 508, 110
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Ocean
+  rotate: false
+  xy: 580, 160
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Oil
+  rotate: false
+  xy: 508, 46
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Oil WellC
+  rotate: false
+  xy: 580, 96
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Oil well
+  rotate: false
+  xy: 580, 31
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Oil+Oil well
+  rotate: false
+  xy: 580, 31
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/OilS
+  rotate: false
+  xy: 1016, 863
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Old Faithful
+  rotate: false
+  xy: 1016, 799
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Pasture
+  rotate: false
+  xy: 1016, 735
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Pearls
+  rotate: false
+  xy: 1009, 671
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Plains
+  rotate: false
+  xy: 1009, 607
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Plains+Hill
+  rotate: false
+  xy: 1088, 735
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Plains+Hill+Fallout
+  rotate: false
+  xy: 1081, 607
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Plains+Hill+Fallout2
+  rotate: false
+  xy: 1356, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Plains+Hill2
+  rotate: false
+  xy: 1081, 671
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Plains2
+  rotate: false
+  xy: 1088, 863
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Plains3
+  rotate: false
+  xy: 1088, 799
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Plantation
+  rotate: false
+  xy: 1428, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Polder
+  rotate: false
+  xy: 1500, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Polder-Atomic era
+  rotate: false
+  xy: 1572, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Polder-Future era
+  rotate: false
+  xy: 1572, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Polder-Industrial era
+  rotate: false
+  xy: 1572, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Polder-Information era
+  rotate: false
+  xy: 1572, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Polder-Modern era
+  rotate: false
+  xy: 1572, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Quarry
+  rotate: false
+  xy: 1644, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/River-Bottom
+  rotate: false
+  xy: 1716, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/River-BottomLeft
+  rotate: false
+  xy: 1284, 870
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/River-BottomRight
+  rotate: false
+  xy: 1788, 872
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Rock of Gibraltar
+  rotate: false
+  xy: 1860, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/RuinsD
+  rotate: false
+  xy: 1932, 880
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/RuinsG
+  rotate: false
+  xy: 1356, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/RuinsT
+  rotate: false
+  xy: 1428, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Salt
+  rotate: false
+  xy: 1500, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Sheep
+  rotate: false
+  xy: 1572, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Sheep+Pasture
+  rotate: false
+  xy: 1644, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Silk
+  rotate: false
+  xy: 1716, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Silk+Plantation
+  rotate: false
+  xy: 1788, 808
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Silver
+  rotate: false
+  xy: 1860, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Snow
+  rotate: false
+  xy: 1932, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Snow+Hill
+  rotate: false
+  xy: 1160, 738
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Snow+Hill+Fallout
+  rotate: false
+  xy: 1232, 742
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Snow+Hill+Fallout2
+  rotate: false
+  xy: 1304, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Snow+Hill2
+  rotate: false
+  xy: 1232, 806
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Snow2
+  rotate: false
+  xy: 1160, 866
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Snow3
+  rotate: false
+  xy: 1160, 802
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Spices
+  rotate: false
+  xy: 1376, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Spices+Plantation
+  rotate: false
+  xy: 1448, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Sri Pada
+  rotate: false
+  xy: 1520, 748
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Stone
+  rotate: false
+  xy: 1592, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Stone+Quarry
+  rotate: false
+  xy: 1664, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/StoneD
+  rotate: false
+  xy: 1304, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/StoneD+Quarry
+  rotate: false
+  xy: 1376, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Sugar
+  rotate: false
+  xy: 1448, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Sugar+Plantation
+  rotate: false
+  xy: 1520, 676
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Terrace farm
+  rotate: false
+  xy: 1592, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Trading post
+  rotate: false
+  xy: 1232, 678
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Truffles
+  rotate: false
+  xy: 1160, 674
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Truffles+Camp
+  rotate: false
+  xy: 1153, 610
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Tundra
+  rotate: false
+  xy: 1736, 744
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Tundra+Hill
+  rotate: false
+  xy: 1808, 680
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Tundra+Hill+Fallout
+  rotate: false
+  xy: 1880, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Tundra+Hill+Fallout2
+  rotate: false
+  xy: 1952, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Tundra+Hill2
+  rotate: false
+  xy: 1880, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Tundra2
+  rotate: false
+  xy: 1736, 680
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Tundra3
+  rotate: false
+  xy: 1808, 744
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Uluru
+  rotate: false
+  xy: 1952, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Uranium
+  rotate: false
+  xy: 1592, 624
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Whales
+  rotate: false
+  xy: 1664, 624
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Whales+Fishing Boats
+  rotate: false
+  xy: 1736, 616
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Wheat
+  rotate: false
+  xy: 1808, 616
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Wine
+  rotate: false
+  xy: 1880, 624
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/Wine+Plantation
+  rotate: false
+  xy: 1952, 624
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/Tiles/bana
+  rotate: false
+  xy: 1304, 624
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Edges/TopBorder
+  rotate: false
+  xy: 1664, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
